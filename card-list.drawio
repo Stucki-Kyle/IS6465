@@ -18,60 +18,60 @@
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-5" value="&lt;b&gt;Mileage Rewards&lt;/b&gt;&lt;div&gt;&lt;b&gt;Gift Card List&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
           <mxGeometry width="273" height="40" relative="1" as="geometry">
-            <mxPoint x="155" y="145" as="offset" />
+            <mxPoint x="155" y="122" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-7" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
           <mxGeometry width="315" height="170" relative="1" as="geometry">
-            <mxPoint x="53" y="197" as="offset" />
+            <mxPoint x="53" y="234" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-8" value="Points: 200" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
           <mxGeometry width="70" height="20" relative="1" as="geometry">
-            <mxPoint x="180" y="337" as="offset" />
+            <mxPoint x="180" y="374" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="163.98000000000002" y="50.303030303030305" width="80" height="80" as="geometry" />
+          <mxGeometry x="163.98000000000002" y="34.303030303030305" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-12" value="Logo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="99.18" y="41.60606060606061" width="210" height="100.60606060606061" as="geometry" />
+          <mxGeometry x="100" y="51.61" width="210" height="45.39" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-14" value="Cust-Add" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="16.180000000000007" y="20.299999999999955" width="80" height="30" as="geometry" />
+          <mxGeometry x="53.18000000000001" y="187.29999999999995" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-15" value="Card-Add" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="320" y="20.299999999999955" width="80" height="30" as="geometry" />
+          <mxGeometry x="288" y="187.29999999999995" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="142.5" y="210" width="135" height="90" as="geometry" />
+          <mxGeometry x="142.5" y="247" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-17" value="&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;$Value Gift Card&lt;/font&gt;&lt;/u&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="165" y="310" width="115" height="20" as="geometry" />
+          <mxGeometry x="165" y="347" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-24" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="52.5" y="390" width="315" height="170" as="geometry" />
+          <mxGeometry x="52.5" y="427" width="315" height="170" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-25" value="Points: 200" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="179.5" y="530" width="70" height="20" as="geometry" />
+          <mxGeometry x="179.5" y="567" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="142" y="403" width="135" height="90" as="geometry" />
+          <mxGeometry x="142" y="440" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-27" value="&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;$Value Gift Card&lt;/font&gt;&lt;/u&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="164.5" y="503" width="115" height="20" as="geometry" />
+          <mxGeometry x="164.5" y="540" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-28" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="52.5" y="583" width="315" height="170" as="geometry" />
+          <mxGeometry x="52.5" y="620" width="315" height="170" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-29" value="Points: 200" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="179.5" y="723" width="70" height="20" as="geometry" />
+          <mxGeometry x="179.5" y="760" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-30" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="142" y="596" width="135" height="90" as="geometry" />
+          <mxGeometry x="142" y="633" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-31" value="&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;$Value Gift Card&lt;/font&gt;&lt;/u&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="GSyMy5U4tq3m4OwehrMc-4">
-          <mxGeometry x="164.5" y="696" width="115" height="20" as="geometry" />
+          <mxGeometry x="164.5" y="733" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GSyMy5U4tq3m4OwehrMc-13" value="Air Asia Mileage Rewards Redemption [Card List Page]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="375" y="40" width="100" height="60" as="geometry" />
