@@ -32,11 +32,11 @@
         <mxCell id="0Q2YxZxZt9qDFUoyfMHc-10" value="Logo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="0Q2YxZxZt9qDFUoyfMHc-5">
           <mxGeometry x="100" y="51.61" width="210" height="45.39" as="geometry" />
         </mxCell>
-        <mxCell id="0Q2YxZxZt9qDFUoyfMHc-11" value="Update" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="0Q2YxZxZt9qDFUoyfMHc-5">
-          <mxGeometry x="53.18" y="187.3" width="106.82" height="30" as="geometry" />
+        <mxCell id="0Q2YxZxZt9qDFUoyfMHc-11" value="Commit-Update" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="0Q2YxZxZt9qDFUoyfMHc-5">
+          <mxGeometry x="53.18" y="187.3" width="126.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Q2YxZxZt9qDFUoyfMHc-12" value="Delete" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="0Q2YxZxZt9qDFUoyfMHc-5">
-          <mxGeometry x="260" y="187.3" width="108" height="30" as="geometry" />
+        <mxCell id="0Q2YxZxZt9qDFUoyfMHc-12" value="Commit-Delete" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="0Q2YxZxZt9qDFUoyfMHc-5">
+          <mxGeometry x="250" y="187.3" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Q2YxZxZt9qDFUoyfMHc-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="0Q2YxZxZt9qDFUoyfMHc-5">
           <mxGeometry x="123.75" y="580" width="172.5" height="110" as="geometry" />
