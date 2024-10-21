@@ -79,6 +79,9 @@
         <mxCell id="mBunoje7Lh60PfE4Df9u-34" value="Food" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="392.25" y="932" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Restaurant&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="389.25" y="827" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
