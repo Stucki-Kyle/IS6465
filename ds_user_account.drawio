@@ -26,10 +26,34 @@
           <mxGeometry x="100" y="30.61" width="210" height="45.39" as="geometry" />
         </mxCell>
         <mxCell id="h8tkEOQfb4YPFhZdcTbf-17" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="h8tkEOQfb4YPFhZdcTbf-4" vertex="1">
-          <mxGeometry x="164.5" y="540" width="115" height="20" as="geometry" />
+          <mxGeometry x="164.5" y="520" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8tkEOQfb4YPFhZdcTbf-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Reviews Given&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="h8tkEOQfb4YPFhZdcTbf-4" vertex="1">
+        <mxCell id="h8tkEOQfb4YPFhZdcTbf-33" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="h8tkEOQfb4YPFhZdcTbf-4" vertex="1">
           <mxGeometry x="159" y="411" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IJIW-9BLw8aHHQDZSZwI-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h8tkEOQfb4YPFhZdcTbf-4">
+          <mxGeometry x="50" y="477" width="320" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="IJIW-9BLw8aHHQDZSZwI-31" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviews Written&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Count]&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="h8tkEOQfb4YPFhZdcTbf-4">
+          <mxGeometry x="69.5" y="451" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fcFgzC5A9_2XvSZsa60q-6" value="View List" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="h8tkEOQfb4YPFhZdcTbf-4" vertex="1">
+          <mxGeometry x="270" y="488" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IJIW-9BLw8aHHQDZSZwI-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h8tkEOQfb4YPFhZdcTbf-4">
+          <mxGeometry x="50" y="577" width="320" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="IJIW-9BLw8aHHQDZSZwI-33" value="&lt;div&gt;Restaurants Followed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Count]&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="h8tkEOQfb4YPFhZdcTbf-4">
+          <mxGeometry x="69.5" y="550" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IJIW-9BLw8aHHQDZSZwI-34" value="View List" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="h8tkEOQfb4YPFhZdcTbf-4">
+          <mxGeometry x="270" y="588" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IJIW-9BLw8aHHQDZSZwI-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h8tkEOQfb4YPFhZdcTbf-4">
+          <mxGeometry x="73" y="350" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IJIW-9BLw8aHHQDZSZwI-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h8tkEOQfb4YPFhZdcTbf-4">
+          <mxGeometry x="73" y="407" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h8tkEOQfb4YPFhZdcTbf-22" value="Standard User [User Account Page]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="375" y="40" width="100" height="60" as="geometry" />
@@ -40,34 +64,13 @@
         <mxCell id="h8tkEOQfb4YPFhZdcTbf-30" value="User-Update" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="460.18" y="380.3" width="126.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fcFgzC5A9_2XvSZsa60q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="730" width="320" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="fcFgzC5A9_2XvSZsa60q-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
-          <mxGeometry x="278" y="854" width="152" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fcFgzC5A9_2XvSZsa60q-6" value="Update" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="738" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fcFgzC5A9_2XvSZsa60q-7" value="Delete" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="486.5" y="739" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fcFgzC5A9_2XvSZsa60q-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;[Review List Cont.]&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="1" vertex="1">
-          <mxGeometry x="370.25" y="1024" width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="IJIW-9BLw8aHHQDZSZwI-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;User Account&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="296" width="210" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="IJIW-9BLw8aHHQDZSZwI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278" y="900" width="302" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="fcFgzC5A9_2XvSZsa60q-3" value="&lt;div&gt;&lt;b&gt;Restaurant: Name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Food Name: Food&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;User Review&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Feedback: Feedback here&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Description of food&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;perimeterSpacing=5;" parent="1" vertex="1">
-          <mxGeometry x="278" y="795" width="152" height="111" as="geometry" />
         </mxCell>
         <mxCell id="IJIW-9BLw8aHHQDZSZwI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="522" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8tkEOQfb4YPFhZdcTbf-28" value="User Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Username here&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User location&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Location here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reviews Written&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Count]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Restaurants Followed&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Count]&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="1" vertex="1">
+        <mxCell id="h8tkEOQfb4YPFhZdcTbf-28" value="User Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Username here&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User location&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Location here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email (login username)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New password here&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="1" vertex="1">
           <mxGeometry x="293" y="482" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
