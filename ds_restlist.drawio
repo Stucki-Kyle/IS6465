@@ -26,7 +26,7 @@
             <mxPoint x="54" y="204" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBunoje7Lh60PfE4Df9u-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Restaurant&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="mBunoje7Lh60PfE4Df9u-4">
+        <mxCell id="mBunoje7Lh60PfE4Df9u-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Restaurant&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="mBunoje7Lh60PfE4Df9u-4">
           <mxGeometry width="70" height="20" relative="1" as="geometry">
             <mxPoint x="172" y="315" as="offset" />
           </mxGeometry>
@@ -55,8 +55,29 @@
         <mxCell id="mBunoje7Lh60PfE4Df9u-28" value="Food" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="mBunoje7Lh60PfE4Df9u-4">
           <mxGeometry x="172.25" y="422" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;[List Cont.]&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="mBunoje7Lh60PfE4Df9u-4">
+          <mxGeometry x="183.25" y="778" width="70" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="mBunoje7Lh60PfE4Df9u-22" value="DineScout [ Restaurant&amp;nbsp;List Page]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="375" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-29" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="714" width="315" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-30" value="Food-Rev" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="931" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-31" value="Follow" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="933" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-32" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="727" width="137.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-33" value="&lt;div&gt;&lt;b&gt;Type: Type of restaurant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Location: Located at this spot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Hours: The hours for this restaurant are&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Followers: Follower count&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Average Review: 4.5 stars&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;perimeterSpacing=5;" vertex="1" parent="1">
+          <mxGeometry x="294.75" y="866" width="273" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBunoje7Lh60PfE4Df9u-34" value="Food" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="392.25" y="932" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
