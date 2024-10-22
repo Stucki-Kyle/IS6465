@@ -16,9 +16,9 @@
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" parent="U1jjk0g8kOk5Zw2hRdft-1" vertex="1">
           <mxGeometry x="180" y="110" width="420" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="U1jjk0g8kOk5Zw2hRdft-5" value="&lt;div&gt;&lt;b&gt;Food Items Available&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;From Local Restaurant&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="U1jjk0g8kOk5Zw2hRdft-4" vertex="1">
+        <mxCell id="U1jjk0g8kOk5Zw2hRdft-5" value="&lt;div&gt;&lt;b&gt;Restaurant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Food List&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="U1jjk0g8kOk5Zw2hRdft-4" vertex="1">
           <mxGeometry width="273" height="40" relative="1" as="geometry">
-            <mxPoint x="149" y="152" as="offset" />
+            <mxPoint x="172" y="152" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="U1jjk0g8kOk5Zw2hRdft-4" vertex="1">
@@ -44,31 +44,34 @@
           <mxGeometry x="290" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;[List Cont.]&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="U1jjk0g8kOk5Zw2hRdft-4" vertex="1">
-          <mxGeometry x="183.25" y="778" width="70" height="20" as="geometry" />
+          <mxGeometry x="183.25" y="791" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-17" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="274" y="590" width="315" height="390" as="geometry" />
+          <mxGeometry x="274" y="590" width="315" height="420" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="362.5" y="602" width="137.5" height="93" as="geometry" />
+          <mxGeometry x="374.75" y="647" width="117.5" height="76" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-21" value="&lt;div&gt;&lt;b&gt;Name: Food Name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Desc: Description here&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Price: $ Price in dollars here&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Average Review: 4.2 stars&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;perimeterSpacing=5;" parent="1" vertex="1">
-          <mxGeometry x="294.75" y="741" width="273" height="40" as="geometry" />
+          <mxGeometry x="294.75" y="774" width="273" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Food Item #1&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="1" vertex="1">
-          <mxGeometry x="389.25" y="702" width="70" height="20" as="geometry" />
+          <mxGeometry x="389.25" y="735" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.75" y="810" width="275.25" height="70" as="geometry" />
+          <mxGeometry x="294.75" y="843" width="275.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-26" value="&lt;div&gt;&lt;b&gt;Name: User Name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Feedback: Feedback listed here&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;User Review: 3.4&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;perimeterSpacing=5;" parent="1" vertex="1">
-          <mxGeometry x="297" y="826" width="273" height="40" as="geometry" />
+          <mxGeometry x="297" y="859" width="273" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294.75" y="890" width="275.25" height="70" as="geometry" />
+          <mxGeometry x="294.75" y="923" width="275.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U1jjk0g8kOk5Zw2hRdft-28" value="&lt;div&gt;&lt;b&gt;Name: User Name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Feedback: Feedback listed here&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;User Review: 3.4&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;perimeterSpacing=5;" parent="1" vertex="1">
-          <mxGeometry x="297" y="906" width="273" height="40" as="geometry" />
+          <mxGeometry x="297" y="939" width="273" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mMkfRIySe-hCDhp2K1H8-1" value="Review" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="603" width="99.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
