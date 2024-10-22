@@ -31,8 +31,8 @@
         <mxCell id="epsHbpwaY9G1va5y-a78-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Restaurant&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
           <mxGeometry x="170.5" y="314" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="epsHbpwaY9G1va5y-a78-26" value="Reviews" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
-          <mxGeometry x="68.5" y="420" width="80" height="30" as="geometry" />
+        <mxCell id="epsHbpwaY9G1va5y-a78-26" value="Food &amp;amp; Reviews" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
+          <mxGeometry x="68.5" y="420" width="131.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epsHbpwaY9G1va5y-a78-27" value="Un-Follow" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
           <mxGeometry x="260" y="422" width="93.5" height="30" as="geometry" />
@@ -43,17 +43,11 @@
         <mxCell id="epsHbpwaY9G1va5y-a78-29" value="&lt;div&gt;&lt;b&gt;Type: Type of restaurant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Location: Located at this spot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Hours: The hours for this restaurant are&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Followers: Follower count&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Average Review: 4.5 stars&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;perimeterSpacing=5;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
           <mxGeometry x="73.25" y="355" width="273" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epsHbpwaY9G1va5y-a78-30" value="Food" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
-          <mxGeometry x="164.75" y="421" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="epsHbpwaY9G1va5y-a78-31" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
           <mxGeometry x="52.5" y="483" width="315" height="260" as="geometry" />
         </mxCell>
         <mxCell id="epsHbpwaY9G1va5y-a78-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Restaurant&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
           <mxGeometry x="170.5" y="594" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="epsHbpwaY9G1va5y-a78-33" value="Reviews" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
-          <mxGeometry x="68.5" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epsHbpwaY9G1va5y-a78-34" value="Un-Follow" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
           <mxGeometry x="260" y="702" width="93.5" height="30" as="geometry" />
@@ -64,8 +58,8 @@
         <mxCell id="epsHbpwaY9G1va5y-a78-36" value="&lt;div&gt;&lt;b&gt;Type: Type of restaurant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Location: Located at this spot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Hours: The hours for this restaurant are&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Followers: Follower count&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Average Review: 4.5 stars&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;perimeterSpacing=5;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
           <mxGeometry x="73.25" y="635" width="273" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epsHbpwaY9G1va5y-a78-37" value="Food" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="epsHbpwaY9G1va5y-a78-4" vertex="1">
-          <mxGeometry x="164.75" y="701" width="80" height="30" as="geometry" />
+        <mxCell id="yZhVOJ1D_KPARZd-RdQb-1" value="Food &amp;amp; Reviews" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="epsHbpwaY9G1va5y-a78-4">
+          <mxGeometry x="65" y="702" width="131.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epsHbpwaY9G1va5y-a78-16" value="Standard User [User Follows Page]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="375" y="40" width="100" height="60" as="geometry" />
@@ -73,7 +67,7 @@
         <mxCell id="epsHbpwaY9G1va5y-a78-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;[Restaurant List Cont.]&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="1" vertex="1">
           <mxGeometry x="357.25" y="998" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V1vc3sbserMTRBsRMMdp-1" value="User Account" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="V1vc3sbserMTRBsRMMdp-1" value="User Account" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
