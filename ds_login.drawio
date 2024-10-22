@@ -43,7 +43,7 @@
         </mxCell>
         <mxCell id="fV1w_FRsYj548L4Wi9fW-10" value="Sign In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="fV1w_FRsYj548L4Wi9fW-4" vertex="1">
           <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
-            <mxPoint x="30" y="-49" as="offset" />
+            <mxPoint x="85" y="-49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fV1w_FRsYj548L4Wi9fW-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="fV1w_FRsYj548L4Wi9fW-4" vertex="1">
@@ -51,9 +51,6 @@
         </mxCell>
         <mxCell id="fV1w_FRsYj548L4Wi9fW-12" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Logo&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="fV1w_FRsYj548L4Wi9fW-4" vertex="1">
           <mxGeometry x="39.88" y="48" width="172.75" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="jeygk4JwfX24Car3B7re-1" value="Register" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="fV1w_FRsYj548L4Wi9fW-4">
-          <mxGeometry x="140" y="281" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fV1w_FRsYj548L4Wi9fW-13" value="DineScout [Login Page]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="375" y="40" width="100" height="60" as="geometry" />
