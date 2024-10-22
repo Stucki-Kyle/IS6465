@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="B12kAi6Mzj80PdYisYwg">
-    <mxGraphModel>
+    <mxGraphModel dx="1498" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i_AujkZFe4OObAjSfmXB-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="767.5" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-2" value="DineScout" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-3" value="https://www.dinescout.com/rest_membership" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-1">
+          <mxGeometry x="180" y="110" width="420" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="46" y="333" width="320" height="409" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="163.98000000000002" y="74.30303030303031" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-7" value="Logo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="100" y="91.61" width="210" height="45.39" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-8" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="164.5" y="828" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-9" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="155" y="585" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-11" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="69.5" y="756" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="45" y="232" width="320" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-14" value="&lt;div&gt;Current Membership&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[True or False] [Expiration Date]&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="64.5" y="200" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="69" y="524" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="69" y="581" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-18" value="User Account" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-4">
+          <mxGeometry x="290" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-28" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="i_AujkZFe4OObAjSfmXB-1">
+          <mxGeometry x="246" y="805" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-19" value="Restaurant User [Pay Fees Page]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="375" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="638" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-21" value="Pay" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="453.18" y="571.3" width="126.82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Membership&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="357" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="696" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="867" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i_AujkZFe4OObAjSfmXB-26" value="&lt;div&gt;Cardholder Name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name here&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Address on card file&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expiration Date&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Date Here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CVV&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 or 4 digit number&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Zipcode&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Zipcode Here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Membership Term&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Monthly or Yearly&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="712" width="210" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
