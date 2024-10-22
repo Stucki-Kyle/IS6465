@@ -41,7 +41,7 @@
             <mxPoint x="31" y="236" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fV1w_FRsYj548L4Wi9fW-10" value="SIGN IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="fV1w_FRsYj548L4Wi9fW-4" vertex="1">
+        <mxCell id="fV1w_FRsYj548L4Wi9fW-10" value="Sign In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="fV1w_FRsYj548L4Wi9fW-4" vertex="1">
           <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
             <mxPoint x="30" y="-49" as="offset" />
           </mxGeometry>
