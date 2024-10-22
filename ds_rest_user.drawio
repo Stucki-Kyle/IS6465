@@ -17,70 +17,73 @@
           <mxGeometry x="180" y="110" width="420" height="830" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="50" y="220" width="320" height="400" as="geometry" />
+          <mxGeometry x="50" y="170" width="320" height="480" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="163.98000000000002" y="74.30303030303031" width="80" height="80" as="geometry" />
+          <mxGeometry x="163.98000000000002" y="41.30303030303031" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-7" value="Logo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="100" y="91.61" width="210" height="45.39" as="geometry" />
+          <mxGeometry x="100" y="58.61" width="210" height="45.39" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-8" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="164.5" y="687" width="115" height="20" as="geometry" />
+          <mxGeometry x="164.5" y="710" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-9" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="159" y="472" width="210" height="130" as="geometry" />
+          <mxGeometry x="159" y="422" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="50" y="644" width="320" height="73" as="geometry" />
+          <mxGeometry x="50" y="667" width="320" height="73" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-11" value="&lt;div&gt;Food Items&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Count]&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="69.5" y="615" width="210" height="130" as="geometry" />
+          <mxGeometry x="69.5" y="638" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-12" value="View List" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="270" y="655" width="90" height="30" as="geometry" />
+          <mxGeometry x="270" y="678" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="50" y="744" width="320" height="73" as="geometry" />
+          <mxGeometry x="50" y="757" width="320" height="73" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-14" value="&lt;div&gt;Current Membership&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[True or False] [Expiration Date]&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="69.5" y="713" width="210" height="130" as="geometry" />
+          <mxGeometry x="69.5" y="725" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-15" value="Pay Fees" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="270" y="755" width="90" height="30" as="geometry" />
+          <mxGeometry x="270" y="768" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="73" y="411" width="270" height="20" as="geometry" />
+          <mxGeometry x="73" y="361" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
-          <mxGeometry x="73" y="468" width="270" height="20" as="geometry" />
+          <mxGeometry x="73" y="418" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-18" value="User Account" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
           <mxGeometry x="290" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3R2I6MUwIysTPf9Kqypu-29" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="3R2I6MUwIysTPf9Kqypu-4">
+          <mxGeometry x="255" y="579" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-19" value="Restaurant User [User Account Page]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="375" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="525" width="270" height="20" as="geometry" />
+          <mxGeometry x="293" y="475" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-21" value="Rest-Update" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="457.18" y="458.3" width="126.82" height="30" as="geometry" />
+          <mxGeometry x="455.18" y="411.3" width="126.82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;User Account&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="357" width="210" height="130" as="geometry" />
+          <mxGeometry x="375" y="309" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="583" width="270" height="20" as="geometry" />
+          <mxGeometry x="293" y="533" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="754" width="270" height="20" as="geometry" />
+          <mxGeometry x="293" y="704" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3R2I6MUwIysTPf9Kqypu-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288.75" y="810" width="270" height="20" as="geometry" />
+          <mxGeometry x="287.75" y="760" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3R2I6MUwIysTPf9Kqypu-24" value="Restaurant Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name here&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Location here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email (login username)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New password here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Restaurant Type&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Type List Here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hours&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hours Listed Here&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="293" y="599" width="210" height="130" as="geometry" />
+        <mxCell id="3R2I6MUwIysTPf9Kqypu-24" value="Restaurant Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name here&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Location here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email (login username)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;New password here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Restaurant Type&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Type List Here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hours&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hours Listed Here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Restaurant Image &lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;Upload Image&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="293" y="563" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
